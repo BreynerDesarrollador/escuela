@@ -1,0 +1,22 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '../js/components/scss/style';
+@import "~toastr/toastr.scss";
+@import "~ionicons/dist/css/ionicons.min.css";
+@import "~bootstrap4-datetimepicker/build/css/bootstrap-datetimepicker.min.css";
+@import "~select2/dist/css/select2.min.css";
+@import "~select2-bootstrap4-theme/dist/select2-bootstrap4.css";
+@import "~pc-bootstrap4-datetimepicker/build/css/bootstrap-datetimepicker.min.css";
+@import "~animate.css";
+@import "~datatables.net-bs4/css/dataTables.bootstrap4.min.css";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
